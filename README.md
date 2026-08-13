@@ -69,7 +69,7 @@ Result_management_System/
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Bhavy3594/Result_management_System.git
+   git clone https://github.com/BhavyAtkotiya/Result_management_System.git
    cd Result_management_System
    ```
 2. **Install Required Python Package:**
