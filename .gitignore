@@ -1,10 +1,21 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.pytest_cache/
-.vscode/
+*.py[cod]
+*$py.class
+
+# Local database runtime files
+*.db
+*.sqlite3
+
+# IDE / Editor settings
 .idea/
-~$*.docx
-~$*.pptx
-*.log
+.vscode/
+
+# Environment files
+.env
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
